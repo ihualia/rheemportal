@@ -1,0 +1,15 @@
+{
+  "short_name": "Rheem-React",
+  "name": "Rheem-React Portal",
+  "icons": [
+    {
+      "src": "./assets/img/logo_small.png",
+      "sizes": "84x84",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

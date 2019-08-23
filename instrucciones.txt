@@ -1,0 +1,12 @@
+para usar la plantilla, antes de corrrer: npm start
+
+se deberá instalar node-sass
+
+npm install node-sass
+npm audit fix
+
+npm start
+
+
+
+
